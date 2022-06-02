@@ -1,5 +1,3 @@
-## [![Configuración y aplicaciones para desarrolladores en macOS 2020](docs/youtube.png)](https://www.youtube.com/watch?v=wiXjXwx1P4c)
-
 ## Articles
 
 | Link                                                                                                                         | Why                                                                                                                 | Autor                                                     |
